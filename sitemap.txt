@@ -1,3 +1,4 @@
+http://example.com/2023/06/13/%E6%88%91%E7%9A%84%E6%91%84%E5%BD%B1%E6%97%A5%E8%AE%B0/
 http://example.com/2023/06/11/%E5%91%A6%E5%91%A6%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%AD%A9%E7%BA%B8-%E5%AD%95%E6%9C%9F%E7%AC%AC8%E5%91%A8/
 http://example.com/2023/06/05/%E5%91%A6%E5%91%A6%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%AD%A9%E7%BA%B8-%E5%AD%95%E6%9C%9F%E7%AC%AC7%E5%91%A8/
 http://example.com/2023/05/30/%E5%91%A6%E5%91%A6%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%AD%A9%E7%BA%B8-%E5%AD%95%E6%9C%9F%E7%AC%AC6%E5%91%A8/
@@ -65,3 +66,4 @@ http://example.com/tags/%E6%8B%8D%E7%85%A7/
 http://example.com/tags/%E6%97%A5%E5%B8%B8/
 http://example.com/tags/%E5%B0%BC%E5%BA%B7D7200/
 http://example.com/tags/%E6%97%A5%E8%AE%B0/
+http://example.com/tags/%E6%91%84%E5%BD%B1%E6%97%A5%E8%AE%B0/
