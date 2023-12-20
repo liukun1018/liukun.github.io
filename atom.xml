@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>大表哥爱吃鱼</title>
+  <title>大表哥大表哥爱吃鱼</title>
   <icon>https://www.gravatar.com/avatar/292de46d233d3a036a31927f32eceaa3</icon>
   <subtitle>面朝大海，春暖花开</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>Mr John</name>
+    <name>Mr Kaine</name>
     <email>1434799399@qq.com</email>
   </author>
   
